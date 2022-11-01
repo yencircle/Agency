@@ -1,5 +1,6 @@
 @charset "UTF-8";
 /* CUSTOM FONTS */
+
 @font-face {
   font-family: 'Mont';
   src: url("../fonts/Mont-Regular.eot");
@@ -21,6 +22,7 @@
   font-weight: 800;
   font-style: normal;
 }
+
 /* BODY */
 * {
   outline: none !important;
